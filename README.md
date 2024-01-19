@@ -2,12 +2,6 @@
 
 Este repositorio contiene el material y los recursos relacionados con la asignatura "Minería de Datos" impartida en el Departamento de Ingeniería en Datos e Inteligencia Organizacional.
 
-## Objetivos de la Asignatura
-
-- **Objetivo Cognitivo:** Diferenciar las principales técnicas y métodos en la minería de datos para el descubrimiento de patrones o tendencias de la información.
-- **Objetivo Procedimental:** Aplicar métodos sobre conjuntos de grandes volúmenes de datos para la identificación de patrones o tendencias.
-- **Objetivo Actitudinal:** Promover la responsabilidad social en el análisis de casos clásicos de minería de datos en la web para la generación de patrones o tendencias que permitan la toma de decisiones.
-
 ## Unidades y Temas
 
 ### Unidad I. PRE-PROCESAMIENTO DE DATOS
