@@ -1,4 +1,4 @@
-# Minería de Datos - ID0310
+# Minería de datos - ID0310
 
 Este repositorio contiene el material y los recursos relacionados con la asignatura "Minería de Datos" impartida en el Departamento de Ingeniería en Datos e Inteligencia Organizacional.
 
