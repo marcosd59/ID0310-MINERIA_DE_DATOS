@@ -1,6 +1,6 @@
 # Minería de datos - ID0310
 
-Este repositorio contiene el material y los recursos relacionados con la asignatura "Minería de Datos" impartida en el Departamento de Ingeniería en Datos e Inteligencia Organizacional.
+Este repositorio contiene el material y los recursos relacionados con la asignatura "Minería de Datos".
 
 ## Unidades y Temas
 
@@ -45,7 +45,3 @@ En esta unidad, se aplican estrategias que permitan descubrir patrones de uso en
 
 1. **Descubrimiento y análisis de patrones de uso en la web**
 2. **Sistemas de recomendación y filtrado colaborativo**
-
-```bash
-git clone https://github.com/marcosd59/ID0310-MINERIA_DE_DATOS.git
-```
