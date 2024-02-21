@@ -1,4 +1,3 @@
----
 ## Minería de Datos: Primer Examen Parcial
 
 ### Instrucciones
@@ -50,5 +49,3 @@ Lee con atención y resuelve lo que se solicita:
 - **Total_Trans_Amt:** Monto total de la transacción. (Entero)
 - **Total_Trans_Ct:** Recuento total de transacciones. (Entero)
 - **Avg_Utilization_Ratio:** Ratio de utilización promedio del cliente. (Entero)
-
----
